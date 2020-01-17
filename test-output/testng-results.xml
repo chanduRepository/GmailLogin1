@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleSuite" duration-ms="30661" started-at="2020-01-17T15:39:40Z" finished-at="2020-01-17T15:40:10Z">
+    <groups>
+    </groups>
+    <test name="SampaleTest" duration-ms="30661" started-at="2020-01-17T15:39:40Z" finished-at="2020-01-17T15:40:10Z">
+      <class name="com.practice.selenium1.SeleniumDemo2.GmailLogin">
+        <test-method status="PASS" signature="gmailLogin()[pri:0, instance:com.practice.selenium1.SeleniumDemo2.GmailLogin@2893de87]" name="gmailLogin" duration-ms="30568" started-at="2020-01-17T15:39:40Z" finished-at="2020-01-17T15:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailLogin -->
+      </class> <!-- com.practice.selenium1.SeleniumDemo2.GmailLogin -->
+    </test> <!-- SampaleTest -->
+  </suite> <!-- SampleSuite -->
+</testng-results>
